@@ -58,9 +58,12 @@ function App() {
       );
       return distance <= Number(distanceVal || DEFAULT_DISTANCE);
     });
-    const randomIndex = Math.floor(Math.random() * nearbyPlaces.length);
-    const randomItem = nearbyPlaces[randomIndex];
-    if (randomItem) setPlace(randomItem);
+    const cryptoRandomArray = new Uint32Array(1);
+    crypto.getRandomValues(cryptoRandomArray);
+    const randomIndex = cryptoRandomArray[0] % nearbyPlaces.length;
+    const randomPlace = nearbyPlaces[randomIndex];
+
+    if (randomPlace) setPlace(randomPlace);
   }
 
   return (
