@@ -15,6 +15,11 @@ interface CustomForm extends HTMLFormElement {
   readonly elements: CustomElements;
 }
 
+const isMobile = () =>
+  /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(
+    navigator.userAgent
+  );
+
 function deg2rad(deg: number) {
   return deg * (Math.PI / 180);
 }
@@ -55,7 +60,6 @@ function App() {
     });
     const randomIndex = Math.floor(Math.random() * nearbyPlaces.length);
     const randomItem = nearbyPlaces[randomIndex];
-    console.log(randomItem);
     if (randomItem) setPlace(randomItem);
   }
 
@@ -169,9 +173,18 @@ function App() {
                   className="btn btn-info"
                   target="_blank"
                   rel="noopener noreferrer"
-                  href={place?.naverMapLink}
+                  href={
+                    isMobile()
+                      ? place.naverMapLink.includes("p/search")
+                        ? place.naverMapLink.replace(
+                            "https://map.naver.com/p/search/",
+                            "http://maps.google.com/?q="
+                          )
+                        : place.naverMapLink
+                      : place.naverMapLink
+                  }
                 >
-                  View on Naver Map
+                  View on Map
                 </a>
               </div>
             </div>
