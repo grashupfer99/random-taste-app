@@ -1,8 +1,9 @@
 {
   "name": "random-taste",
-  "private": true,
+  "private": false,
   "version": "1.0.0",
   "type": "module",
+  "homepage": "https://grashupfer99.github.io/random-taste-app",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
