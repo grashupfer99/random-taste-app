@@ -5,11 +5,13 @@ import tsconfigPaths from "vite-tsconfig-paths";
 /* -------------------------------------------------------------------------- */
 
 // https://vitejs.dev/config/
-export default defineConfig({
-  base: "https://grashupfer99.github.io/random-taste-app",
-  plugins: [react(), tsconfigPaths()],
-  server: {
-    host: "0.0.0.0",
-    port: 3000,
-  },
+export default defineConfig(({ mode }) => {
+  return {
+    ...(mode === "production" && { base: "/random-taste-app" }),
+    plugins: [react(), tsconfigPaths()],
+    server: {
+      host: "0.0.0.0",
+      port: 3000,
+    },
+  };
 });
