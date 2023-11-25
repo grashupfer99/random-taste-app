@@ -2,7 +2,6 @@
   {
     "name": "CU(반포중앙점)",
     "category": "ETC",
-    "tel": "15778007",
     "coords": { "lat": "37.5054678", "lng": "127.0213782" },
     "address": "06540) 서울특별시 서초구 사평대로53길27 ",
     "naverMapLink": "https://map.naver.com/p/search/37.5054678,127.0213782"
@@ -10,7 +9,6 @@
   {
     "name": "CU(서초다우점)",
     "category": "ETC",
-    "tel": "15778007",
     "coords": { "lat": "37.5025801", "lng": "127.0241405" },
     "address": "06611) 서울특별시 서초구 서초대로77길58  트라이랜드 빌딩(서초동) 103호",
     "naverMapLink": "https://map.naver.com/p/search/37.5025801,127.0241405"
@@ -18,7 +16,6 @@
   {
     "name": "CU(서초유앤아이점)",
     "category": "ETC",
-    "tel": "15778007",
     "coords": { "lat": "37.5033431", "lng": "127.0236795" },
     "address": "06611) 서울특별시 서초구 사평대로56길7  (서초동",
     "naverMapLink": "https://map.naver.com/p/search/37.5033431,127.0236795"
@@ -26,7 +23,6 @@
   {
     "name": "GS25(강남YBM점)",
     "category": "ETC",
-    "tel": "02-552-8151",
     "coords": { "lat": "37.4994466", "lng": "127.0280846" },
     "address": "06129) 서울특별시 강남구 역삼동 818-14",
     "naverMapLink": "https://map.naver.com/p/search/37.4994466,127.0280846"
@@ -34,7 +30,6 @@
   {
     "name": "GS25(강남센타점)",
     "category": "ETC",
-    "tel": "1644-5425",
     "coords": { "lat": "37.5037208", "lng": "127.0240967" },
     "address": "06611) 서울특별시 서초구 강남대로  465 (서초동 1303-22) ",
     "naverMapLink": "https://map.naver.com/p/search/37.5037208,127.0240967"
@@ -42,7 +37,6 @@
   {
     "name": "감성타코(강남역점)",
     "category": "WESTERN",
-    "tel": "02-565-8830",
     "coords": { "lat": "37.4989021", "lng": "127.0276099" },
     "address": "06134) 서울특별시 강남구 강남대로 406 , 지하1층(역삼동, GLASS TOWER) ",
     "naverMapLink": "https://map.naver.com/p/search/37.4989021,127.0276099"
@@ -50,7 +44,6 @@
   {
     "name": "강남반점",
     "category": "CHINESE",
-    "tel": "02-532-7133",
     "coords": { "lat": "37.5016485", "lng": "127.0240060" },
     "address": "06611) 서울 서초구 서초대로73길 50 2층 (서초동, 대원빌딩)",
     "naverMapLink": "https://map.naver.com/p/entry/place/1409279105"
@@ -58,7 +51,6 @@
   {
     "name": "강남상무초밥(강남역점)",
     "category": "JAPANESE",
-    "tel": "025455955",
     "coords": { "lat": "37.5051629", "lng": "127.0256851" },
     "address": "06120) 서울특별시 강남구 봉은사로 111 1층",
     "naverMapLink": "https://map.naver.com/p/search/37.5051629,127.0256851"
@@ -66,7 +58,6 @@
   {
     "name": "강남상무초밥(강남역점)",
     "category": "JAPANESE",
-    "tel": "02-545-5955",
     "coords": { "lat": "37.5051629", "lng": "127.0256851" },
     "address": "06120) 서울특별시 강남구 논현동 201-12",
     "naverMapLink": "https://map.naver.com/p/entry/place/1653433739"
@@ -74,7 +65,6 @@
   {
     "name": "겐조라멘(강남점)",
     "category": "JAPANESE",
-    "tel": "02-533-3273",
     "coords": { "lat": "37.5028212", "lng": "127.0245779" },
     "address": "06611) 서울 서초구 강남대로 455 106호(서초동, 강남태영데시앙루브) ",
     "naverMapLink": "https://map.naver.com/p/entry/place/35993515"
@@ -82,7 +72,6 @@
   {
     "name": "경성버거",
     "category": "FAST_FOOD",
-    "tel": "025115688",
     "coords": { "lat": "37.5069012", "lng": "127.0216733" },
     "address": "06536) 서울특별시 서초구 강남대로85길 21-8 1층",
     "naverMapLink": "https://map.naver.com/p/search/37.5069012,127.0216733"
@@ -90,7 +79,6 @@
   {
     "name": "경성버거",
     "category": "FAST_FOOD",
-    "tel": "02-511-5688",
     "coords": { "lat": "37.5069012", "lng": "127.0216733" },
     "address": "06536) 서울특별시 서초구 강남대로85길 21-8 1층(반포동) ",
     "naverMapLink": "https://map.naver.com/p/entry/place/1074940504"
@@ -98,7 +86,6 @@
   {
     "name": "고쿠텐(강남역점)",
     "category": "FAST_FOOD",
-    "tel": "070-4647-2022",
     "coords": { "lat": "37.4962612", "lng": "127.0301445" },
     "address": "06241) 서울특별시 강남구 테헤란로4길 32, 104호 ",
     "naverMapLink": "https://map.naver.com/p/entry/place/1232886749"
@@ -106,7 +93,6 @@
   {
     "name": "공차(강남글라스점)",
     "category": "CAFE",
-    "tel": "02-3453-7758",
     "coords": { "lat": "37.4989462", "lng": "127.0276280" },
     "address": "06134) 서울특별시 강남구 강남대로 406 GLASS TOWER",
     "naverMapLink": "https://map.naver.com/p/search/37.4989462,127.0276280"
@@ -114,7 +100,6 @@
   {
     "name": "공차(교보타워점)",
     "category": "CAFE",
-    "tel": "02-536-7760",
     "coords": { "lat": "37.5027479", "lng": "127.0239120" },
     "address": "06611) 서울특별시 서초구 서초대로 77길 62, 103호, 104호(서초동,강남역아이파크) ",
     "naverMapLink": "https://map.naver.com/p/search/37.5027479,127.0239120"
@@ -122,7 +107,6 @@
   {
     "name": "구영회참치&초밥(강남점)",
     "category": "FAST_FOOD",
-    "tel": "02-556-1580",
     "coords": { "lat": "37.5048629", "lng": "127.0406536" },
     "address": "06139) 서울 강남구 테헤란로39길 37 역삼동 1층 ",
     "naverMapLink": "https://map.naver.com/p/entry/place/36642910"
@@ -130,7 +114,6 @@
   {
     "name": "국밥쟁이(강남역점)",
     "category": "KOREAN_FOOD",
-    "tel": "02-533-9290",
     "coords": { "lat": "37.4984870", "lng": "127.0263498" },
     "address": "06615) 서울특별시 서초구 서초대로77길 9 서초동, 강남 누드죤빌딩 지하1층 ",
     "naverMapLink": "https://map.naver.com/p/entry/place/1205226351"
@@ -138,7 +121,6 @@
   {
     "name": "김가네(강남역점)",
     "category": "SNACK",
-    "tel": "02-3453-0777",
     "coords": { "lat": "37.4998077", "lng": "127.0294800" },
     "address": "06130) 서울특별시 강남구 강남대로94길 27 역삼동 1층 ",
     "naverMapLink": "https://map.naver.com/p/search/37.4998077,127.0294800"
@@ -146,7 +128,6 @@
   {
     "name": "김명자굴국밥(강남역점)",
     "category": "ETC",
-    "tel": "025976007",
     "coords": { "lat": "37.4950798", "lng": "127.0279320" },
     "address": "06621) 서울특별시 서초구 서초대로78길 30 (서초동) 지하1층 ",
     "naverMapLink": "https://map.naver.com/p/search/37.4950798,127.0279320"
@@ -154,7 +135,6 @@
   {
     "name": "김밥속으로(강남본점)",
     "category": "FAST_FOOD",
-    "tel": "010-2858-5100",
     "coords": { "lat": "37.5034606", "lng": "127.0259877" },
     "address": "06123) 서울 강남구 봉은사로2길 17 역삼동 1층 ",
     "naverMapLink": "https://map.naver.com/p/entry/place/318911151"
@@ -162,7 +142,6 @@
   {
     "name": "김밥천국(강남점)",
     "category": "SNACK",
-    "tel": "02-3486-7009",
     "coords": { "lat": "37.4959332", "lng": "127.0251891" },
     "address": "06619) 서울 서초구 서초동 1321-6 서초동아타워 109 ",
     "naverMapLink": "https://map.naver.com/p/entry/place/19801087"
@@ -170,7 +149,6 @@
   {
     "name": "까사생갈비",
     "category": "FAST_FOOD",
-    "tel": "0507-1384-5705",
     "coords": { "lat": "37.5031061", "lng": "127.0261552" },
     "address": "06123) 서울 강남구 봉은사로2길 23 역삼동, 오렌지빌딩 2층 ",
     "naverMapLink": "https://map.naver.com/p/entry/place/593588180"
@@ -178,7 +156,6 @@
   {
     "name": "꼭그닭(강남점)",
     "category": "KOREAN_FOOD",
-    "tel": "02-565-5335",
     "coords": { "lat": "37.5024002", "lng": "127.0270940" },
     "address": "06123) 서울특별시 강남구 봉은사로4길 37 지하1층(역삼동) ",
     "naverMapLink": "https://map.naver.com/p/entry/place/35734815"
@@ -186,7 +163,6 @@
   {
     "name": "낙원타코(강남역점)",
     "category": "WESTERN",
-    "tel": "02-595-1540",
     "coords": { "lat": "37.4982696", "lng": "127.0252148" },
     "address": "06616) 서울특별시 서초구 서초대로73길 9 2층 (서초동, 타임빌딩) ",
     "naverMapLink": "https://map.naver.com/p/entry/place/1094851432"
@@ -194,7 +170,6 @@
   {
     "name": "난바우동(강남본점)",
     "category": "JAPANESE",
-    "tel": "02-6014-3214",
     "coords": { "lat": "37.5057139", "lng": "127.0251871" },
     "address": "06120) 서울특별시 강남구 강남대로114길 10 논현동 ",
     "naverMapLink": "https://map.naver.com/p/entry/place/1683909619"
@@ -202,7 +177,6 @@
   {
     "name": "남기분면",
     "category": "ETC",
-    "tel": "010-9782-0806",
     "coords": { "lat": "37.4992946", "lng": "127.0285709" },
     "address": "06134) 서울특별시 강남구 강남대로94길 14",
     "naverMapLink": "https://map.naver.com/p/search/37.4992946,127.0285709"
@@ -210,7 +184,6 @@
   {
     "name": "남도밥상",
     "category": "KOREAN_FOOD",
-    "tel": "02-533-0615",
     "coords": { "lat": "37.5035889", "lng": "127.0226473" },
     "address": "06609) 서울특별시 서초구 사평대로 362 서초동 지층 ",
     "naverMapLink": "https://map.naver.com/p/entry/place/33695574"
@@ -218,7 +191,6 @@
   {
     "name": "남서울아바이순대",
     "category": "KOREAN_FOOD",
-    "tel": "02-3478-6207",
     "coords": { "lat": "37.5033211", "lng": "127.0236335" },
     "address": "06611) 서울특별시 서초구 사평대로56길 7 서초동, 서초한일유앤아이주상복합 지하 119-123호 ",
     "naverMapLink": "https://map.naver.com/p/entry/place/18319976"
@@ -226,7 +198,6 @@
   {
     "name": "남쪽나라",
     "category": "KOREAN_FOOD",
-    "tel": "02-579-9298",
     "coords": { "lat": "37.5030566", "lng": "127.0215854" },
     "address": "06609) 서울특별시 서초구 서운로 226 #서초동, 서초오피스텔# 지하1층,101호 ",
     "naverMapLink": "https://map.naver.com/p/entry/place/1339644017"
@@ -234,7 +205,6 @@
   {
     "name": "뉴욕버거",
     "category": "FAST_FOOD",
-    "tel": "025168823",
     "coords": { "lat": "37.5065666", "lng": "127.0226074" },
     "address": "06536) 서울특별시 서초구 사평대로57길 54 1층",
     "naverMapLink": "https://map.naver.com/p/search/37.5065666,127.0226074"
@@ -242,7 +212,6 @@
   {
     "name": "뉴욕버거",
     "category": "FAST_FOOD",
-    "tel": "02-516-8823",
     "coords": { "lat": "37.5065666", "lng": "127.0226074" },
     "address": "06536) 서울특별시 서초구 사평대로57길 54 1층반포동, 여호수아 빌딩 ",
     "naverMapLink": "https://map.naver.com/p/search/37.5065666,127.0226074"
@@ -250,7 +219,6 @@
   {
     "name": "담소소사골순대육개장(강남본점)",
     "category": "FAST_FOOD",
-    "tel": "02-563-1821",
     "coords": { "lat": "37.4951942", "lng": "127.0313299" },
     "address": "06243) 서울 강남구 강남대로78길 24 역삼동 1층 ",
     "naverMapLink": "https://map.naver.com/p/entry/place/32731184"
@@ -258,7 +226,6 @@
   {
     "name": "더바른정육식당(본점)",
     "category": "KOREAN_FOOD",
-    "tel": "02-541-7935",
     "coords": { "lat": "37.5053605", "lng": "127.0244829" },
     "address": "06120) 서울특별시 강남구 강남대로 482 지상 1층(논현동) ",
     "naverMapLink": "https://map.naver.com/p/entry/place/37765304"
@@ -266,7 +233,6 @@
   {
     "name": "던킨도너츠(강남대로점)",
     "category": "CAFE",
-    "tel": "02-595-1180",
     "coords": { "lat": "37.5028212", "lng": "127.0245779" },
     "address": "06611) 서울특별시 서초구 강남대로 455 서초동, 강남태영데시앙루브 102,103 ",
     "naverMapLink": "https://map.naver.com/p/entry/place/1432616492"
@@ -274,7 +240,6 @@
   {
     "name": "던킨도너츠(강남본점점)",
     "category": "CAFE",
-    "tel": "02-3475-1031",
     "coords": { "lat": "37.4959332", "lng": "127.0280222" },
     "address": "06621) 서울특별시 서초구 강남대로 373 (서초동, 홍우빌딩 1층) ",
     "naverMapLink": "https://map.naver.com/p/search/37.4959332,127.0280222"
@@ -282,7 +247,6 @@
   {
     "name": "돈치비어",
     "category": "KOREAN_FOOD",
-    "tel": "02-517-9937",
     "coords": { "lat": "37.5047712", "lng": "127.0231997" },
     "address": "06578) 서울특별시 서초구 사평대로57길 11 지하 1층",
     "naverMapLink": "https://map.naver.com/p/entry/place/1788992084"
@@ -290,7 +254,6 @@
   {
     "name": "돌깨마을맷돌순두부(강남역점)",
     "category": "KOREAN_FOOD",
-    "tel": "02-558-3356",
     "coords": { "lat": "37.4977386", "lng": "127.0292407" },
     "address": "06232) 서울특별시 강남구 테헤란로4길 6 역삼동, 강남역 센트럴 푸르지오 시티 B227호,B228호 ",
     "naverMapLink": "https://map.naver.com/p/entry/place/1860155080"
@@ -298,7 +261,6 @@
   {
     "name": "두레촌",
     "category": "KOREAN_FOOD",
-    "tel": "02-3481-9851",
     "coords": { "lat": "37.5006122", "lng": "127.0248621" },
     "address": "06612) 서울특별시 서초구 서초대로75길 35 1층(서초동 ) ",
     "naverMapLink": "https://map.naver.com/p/entry/place/18366781"
@@ -306,7 +268,6 @@
   {
     "name": "딸부자네불백(강남역점)",
     "category": "KOREAN_FOOD",
-    "tel": "02-538-9292",
     "coords": { "lat": "37.5025231", "lng": "127.0275760" },
     "address": "06128) 서울특별시 강남구 봉은사로6길 38 역삼동, 정암빌딩 1층 103호 ",
     "naverMapLink": "https://map.naver.com/p/entry/place/36860663"
@@ -314,7 +275,6 @@
   {
     "name": "떡도리탕(강남점)",
     "category": "ETC",
-    "tel": "01077778822",
     "coords": { "lat": "37.5004611", "lng": "127.0280669" },
     "address": "06129) 서울특별시 강남구 테헤란로1길 28-9 (역삼동) 1층 ",
     "naverMapLink": "https://map.naver.com/p/search/37.5004611,127.0280669"
@@ -322,7 +282,6 @@
   {
     "name": "또보겠지떡볶이집(강남헬로몽키점)",
     "category": "SNACK",
-    "tel": "010-7355-1361",
     "coords": { "lat": "37.5030385", "lng": "127.0272429" },
     "address": "06123) 서울특별시 강남구 봉은사로6길 30 역삼동 2층 ",
     "naverMapLink": "https://map.naver.com/p/entry/place/1099524893"
@@ -330,7 +289,6 @@
   {
     "name": "라 파스타앤모어",
     "category": "WESTERN",
-    "tel": "070-4042-3469",
     "coords": { "lat": "37.5079297", "lng": "127.0219358" },
     "address": "06536) 서울특별시 서초구 사평대로57길 86 1층(반포동, 왕건빌딩) ",
     "naverMapLink": "https://map.naver.com/p/entry/place/1142217816"
@@ -338,7 +296,6 @@
   {
     "name": "라 파스타앤모어",
     "category": "WESTERN",
-    "tel": "07040423469",
     "coords": { "lat": "37.5079297", "lng": "127.0219358" },
     "address": "06536) 서울특별시 서초구 사평대로57길 86 1층",
     "naverMapLink": "https://map.naver.com/p/search/37.5079297,127.0219358"
@@ -346,7 +303,6 @@
   {
     "name": "로봇김밥(강남역점)",
     "category": "FAST_FOOD",
-    "tel": "02-3452-9993",
     "coords": { "lat": "37.4986253", "lng": "127.0280285" },
     "address": "06134) 서울 강남구 테헤란로 101 역삼동, 이즈타워 ",
     "naverMapLink": "https://map.naver.com/p/entry/place/133581029"
@@ -354,7 +310,6 @@
   {
     "name": "르사이공(강남더인피닛스퀘어점)",
     "category": "ETC",
-    "tel": "010-5518-1718",
     "coords": { "lat": "37.5035345", "lng": "127.0234736" },
     "address": "06611) 서울 서초구 사평대로58길 6 서초동, 현대썬앤빌 강남 더 인피닛 ",
     "naverMapLink": "https://map.naver.com/p/entry/place/1347557780"
@@ -362,7 +317,6 @@
   {
     "name": "마녀주방(강남점)",
     "category": "WESTERN",
-    "tel": "0507-1341-116",
     "coords": { "lat": "37.4994147", "lng": "127.0281479" },
     "address": "06212) 서울특별시 강남구 강남대로94길 9 마녀주방(강남점)",
     "naverMapLink": "https://map.naver.com/p/entry/place/35821213"
@@ -370,7 +324,6 @@
   {
     "name": "마르르(강남역점)",
     "category": "ETC",
-    "tel": "02-563-3337",
     "coords": { "lat": "37.4993913", "lng": "127.0275990" },
     "address": "06134) 서울 강남구 테헤란로1길 17 지하1층 ",
     "naverMapLink": "https://map.naver.com/p/search/37.4993913,127.0275990"
@@ -378,7 +331,6 @@
   {
     "name": "마유유 마라탕(강남역점)",
     "category": "FAST_FOOD",
-    "tel": "070-8270-7771",
     "coords": { "lat": "37.4998077", "lng": "127.0294800" },
     "address": "06130) 서울 강남구 강남대로94길 27, 지상2층 201호 역삼동 ",
     "naverMapLink": "https://map.naver.com/p/entry/place/1099956877"
@@ -386,7 +338,6 @@
   {
     "name": "만추",
     "category": "CHINESE",
-    "tel": "02-517-8597",
     "coords": { "lat": "37.5077967", "lng": "127.0217668" },
     "address": "06536) 서울특별시 서초구 사평대로55길 82-14 1층, 103동(반포동, 코식빌딩) ",
     "naverMapLink": "https://map.naver.com/p/entry/place/1520361748"
@@ -394,7 +345,6 @@
   {
     "name": "맘스터치_(강남역점)",
     "category": "FAST_FOOD",
-    "tel": "02-567-4802",
     "coords": { "lat": "37.5015927", "lng": "127.0268557" },
     "address": "06129) 서울특별시 강남구 강남대로100길 10 역삼동 2층 ",
     "naverMapLink": "https://map.naver.com/p/search/37.5015927,127.0268557"
@@ -402,7 +352,6 @@
   {
     "name": "매머드익스프레스(신논현점)",
     "category": "CAFE",
-    "tel": "02-515-1645",
     "coords": { "lat": "37.5031698", "lng": "127.0234988" },
     "address": "06611) 서울특별시 서초구 사평대로56길 7 1층 107호 ",
     "naverMapLink": "https://map.naver.com/p/search/37.5031698,127.0234988"
@@ -410,7 +359,6 @@
   {
     "name": "매머드커피(강남역점)",
     "category": "CAFE",
-    "tel": "02-501-6618",
     "coords": { "lat": "37.4977319", "lng": "127.0294797" },
     "address": "06232) 서울특별시 강남구 테헤란로4길 6 강남역 센트럴 푸르지오 시티",
     "naverMapLink": "https://map.naver.com/p/search/37.4977319,127.0294797"
@@ -418,7 +366,6 @@
   {
     "name": "매화도삭면",
     "category": "CHINESE",
-    "tel": "02-3454-1009",
     "coords": { "lat": "37.4995013", "lng": "127.0282697" },
     "address": "06129) 서울특별시 강남구 강남대로94길 11 역삼동, 제이빌딩 2층 ",
     "naverMapLink": "https://map.naver.com/p/entry/place/36844934"
@@ -426,7 +373,6 @@
   {
     "name": "맥도날드(강남2호점)",
     "category": "FAST_FOOD",
-    "tel": "070-7017-6865",
     "coords": { "lat": "37.4986429", "lng": "127.0287408" },
     "address": "06134) 서울특별시 강남구 테헤란로 107 비전타워",
     "naverMapLink": "https://map.naver.com/p/search/37.4986429,127.0287408"
@@ -434,7 +380,6 @@
   {
     "name": "메이크커피(강남점)",
     "category": "CAFE",
-    "tel": "0507-1421-7719",
     "coords": { "lat": "37.4998077", "lng": "127.0294800" },
     "address": "06130) 서울 강남구 강남대로94길 27 역삼동 ",
     "naverMapLink": "https://map.naver.com/p/entry/place/38555447"
@@ -442,7 +387,6 @@
   {
     "name": "멘야시노기",
     "category": "JAPANESE",
-    "tel": "02-6405-6505",
     "coords": { "lat": "37.5037267", "lng": "127.0207918" },
     "address": "06543) 서울특별시 서초구 주흥길 3 반포동 108호,109호 ",
     "naverMapLink": "https://map.naver.com/p/entry/place/1185505028"
@@ -450,7 +394,6 @@
   {
     "name": "모범갈빗살(강남역본점)",
     "category": "KOREAN_FOOD",
-    "tel": "02-533-2588",
     "coords": { "lat": "37.5006622", "lng": "127.0245439" },
     "address": "06612) 서울특별시 서초구 서초대로73길 40 서초동, 강남오피스텔 1층 ",
     "naverMapLink": "https://map.naver.com/p/entry/place/1506252365"
@@ -458,7 +401,6 @@
   {
     "name": "미니스톱(서초반포점)",
     "category": "ETC",
-    "tel": "15779621",
     "coords": { "lat": "37.5063795", "lng": "127.0227082" },
     "address": "99999) 서울 서초구 사평대로57길 44  ",
     "naverMapLink": "https://map.naver.com/p/search/37.5063795,127.0227082"
@@ -466,7 +408,6 @@
   {
     "name": "미식본부",
     "category": "ETC",
-    "tel": "02025522020",
     "coords": { "lat": "37.5032859", "lng": "127.0261352" },
     "address": "06123) 서울특별시 강남구 봉은사로2길 21 (역삼동, 반석빌딩) 1,2층",
     "naverMapLink": "https://map.naver.com/p/search/37.5032859,127.0261352"
@@ -474,7 +415,6 @@
   {
     "name": "미요",
     "category": "KOREAN_FOOD",
-    "tel": "02-6081-4841",
     "coords": { "lat": "37.5040242", "lng": "127.0257044" },
     "address": "06123) 서울특별시 강남구 강남대로110길 11 2층(역삼동) ",
     "naverMapLink": "https://map.naver.com/p/entry/place/37991722"
@@ -482,7 +422,6 @@
   {
     "name": "바우골",
     "category": "KOREAN_FOOD",
-    "tel": "02-568-6721",
     "coords": { "lat": "37.4993707", "lng": "127.0296949" },
     "address": "06134) 서울특별시 강남구 강남대로92길 29 역삼동 1층 ",
     "naverMapLink": "https://map.naver.com/p/search/37.4993707,127.0296949"
@@ -490,7 +429,6 @@
   {
     "name": "반장즉석떡볶이(강남점)",
     "category": "FAST_FOOD",
-    "tel": "02-554-1991",
     "coords": { "lat": "37.4968178", "lng": "127.0303557" },
     "address": "06240) 서울 강남구 테헤란로4길 25, 지하1층 역삼동 ",
     "naverMapLink": "https://map.naver.com/p/entry/place/1263845759"
@@ -498,7 +436,6 @@
   {
     "name": "배스킨라빈스(강남신논현점)",
     "category": "CAFE",
-    "tel": "02-532-0091",
     "coords": { "lat": "37.5018121", "lng": "127.0246101" },
     "address": "06611) 서울특별시 서초구 강남대로 69길 8 케이아이타워 1층 배스킨라빈스 ",
     "naverMapLink": "https://map.naver.com/p/search/37.5018121,127.0246101"
@@ -506,7 +443,6 @@
   {
     "name": "백년불고기(강남역점)",
     "category": "KOREAN_FOOD",
-    "tel": "02-557-1227",
     "coords": { "lat": "37.4975778", "lng": "127.0291333" },
     "address": "06232) 서울특별시 강남구 테헤란로4길 6 역삼동, 강남역 센트럴 푸르지오 시티 ",
     "naverMapLink": "https://map.naver.com/p/entry/place/1408610224"
@@ -514,7 +450,6 @@
   {
     "name": "버거킹(신논현역점)",
     "category": "FAST_FOOD",
-    "tel": "070-7438-6564",
     "coords": { "lat": "37.5049105", "lng": "127.0250109" },
     "address": "06120) 서울특별시 강남구 봉은사로 105 105",
     "naverMapLink": "https://map.naver.com/p/search/37.5049105,127.0250109"
@@ -522,7 +457,6 @@
   {
     "name": "병천아우내장터순대(강남역점)",
     "category": "KOREAN_FOOD",
-    "tel": "02-581-8921",
     "coords": { "lat": "37.4952946", "lng": "127.0272798" },
     "address": "06621) 서울 서초구 서초대로74길 27, 1층 서초동, 강남역 한화오벨리스크 ",
     "naverMapLink": "https://map.naver.com/p/entry/place/13149574"
@@ -530,7 +464,6 @@
   {
     "name": "보영만두(강남역점)_KIOSK",
     "category": "ETC",
-    "tel": "025651237",
     "coords": { "lat": "37.5001513", "lng": "127.0290763" },
     "address": "06130) 서울특별시 강남구 테헤란로5길 24 , 101호(역삼동) ",
     "naverMapLink": "https://map.naver.com/p/search/37.5001513,127.0290763"
@@ -538,7 +471,6 @@
   {
     "name": "본도시락(신논현역점)",
     "category": "KOREAN_FOOD",
-    "tel": "02-563-4282",
     "coords": { "lat": "37.5039558", "lng": "127.0261566" },
     "address": "06123) 서울특별시 강남구 강남대로110길 15",
     "naverMapLink": "https://map.naver.com/p/entry/place/37130837"
@@ -546,7 +478,6 @@
   {
     "name": "본죽&비빔밥cafe(강남역점)",
     "category": "KOREAN_FOOD",
-    "tel": "02-525-6653",
     "coords": { "lat": "37.4946662", "lng": "127.0281488" },
     "address": "06621) 서울특별시 서초구 서초대로78길 36 강남지웰타워 201호 ",
     "naverMapLink": "https://map.naver.com/p/entry/place/37801332"
@@ -554,7 +485,6 @@
   {
     "name": "본죽&비빔밥cafe(강남점)",
     "category": "KOREAN_FOOD",
-    "tel": "010-3232-5673",
     "coords": { "lat": "37.4996862", "lng": "127.0289534" },
     "address": "06129) 서울특별시 강남구 강남대로94길 21 (역삼동) ",
     "naverMapLink": "https://map.naver.com/p/search/37.4996862,127.0289534"
@@ -562,7 +492,6 @@
   {
     "name": "본토닭갈비",
     "category": "ETC",
-    "tel": "025086656",
     "coords": { "lat": "37.4712976", "lng": "127.0396051" },
     "address": "06614) 서울특별시 서초구 강남대로 421 (서초동, 삼영빌딩) 지하2층",
     "naverMapLink": "https://map.naver.com/p/search/37.4712976,127.0396051"
@@ -570,7 +499,6 @@
   {
     "name": "봉추찜닭(주공공이점)",
     "category": "ETC",
-    "tel": "0244582618",
     "coords": { "lat": "37.4999072", "lng": "127.0373932" },
     "address": "06123) 서울특별시 강남구 강남대로 442 (역삼동) c-2층",
     "naverMapLink": "https://map.naver.com/p/search/37.4999072,127.0373932"
@@ -578,7 +506,6 @@
   {
     "name": "부대찌개잘하는남자(신논현본점)",
     "category": "FAST_FOOD",
-    "tel": "010-7484-1191",
     "coords": { "lat": "37.5030566", "lng": "127.0215854" },
     "address": "06609) 서울 서초구 서운로 226 제지하1층6-1호(서초동, 서초오피스텔) ",
     "naverMapLink": "https://map.naver.com/p/entry/place/1107169702"
@@ -586,7 +513,6 @@
   {
     "name": "브라운돈가스(반포점)",
     "category": "WESTERN",
-    "tel": "025182366",
     "coords": { "lat": "37.5037267", "lng": "127.0207918" },
     "address": "06543) 서울특별시 서초구 주흥길 3 2층",
     "naverMapLink": "https://map.naver.com/p/search/37.5037267,127.0207918"
@@ -594,7 +520,6 @@
   {
     "name": "브라운돈까스(반포점)",
     "category": "WESTERN",
-    "tel": "02-518-2366",
     "coords": { "lat": "37.5037267", "lng": "127.0207918" },
     "address": "137810) 서울특별시 서초구 주흥길 3",
     "naverMapLink": "https://map.naver.com/p/entry/place/36410985"
@@ -602,7 +527,6 @@
   {
     "name": "브릭샌드(강남역점)",
     "category": "FAST_FOOD",
-    "tel": "01026054974",
     "coords": { "lat": "37.4967173", "lng": "127.0281825" },
     "address": "06232) 서울특별시 강남구 강남대로 지하396 (역삼동) 지하 1층 4번",
     "naverMapLink": "https://map.naver.com/p/search/37.4967173,127.0281825"
@@ -610,7 +534,6 @@
   {
     "name": "빨간두건 닭갈비전",
     "category": "ETC",
-    "tel": "025371568",
     "coords": { "lat": "37.5019696", "lng": "127.0240448" },
     "address": "06611) 서울특별시 서초구 서초대로73길 54 (서초동) 215호 ",
     "naverMapLink": "https://map.naver.com/p/search/37.5019696,127.0240448"
@@ -618,7 +541,6 @@
   {
     "name": "사보텐(신논현점)",
     "category": "JAPANESE",
-    "tel": "02-533-4510",
     "coords": { "lat": "37.5028066", "lng": "127.0239150" },
     "address": "06611) 서울시 서초구 서초대로 77길 62  강남역아이파크1차 G층 사보텐 ",
     "naverMapLink": "https://map.naver.com/p/search/37.5028066,127.0239150"
@@ -626,7 +548,6 @@
   {
     "name": "새벽집",
     "category": "KOREAN_FOOD",
-    "tel": "02-518-0539",
     "coords": { "lat": "37.5047940", "lng": "127.0226881" },
     "address": "06541) 서울특별시 서초구 사평대로55길 18 반포동 1층 ",
     "naverMapLink": "https://map.naver.com/p/entry/place/36734910"
@@ -634,7 +555,6 @@
   {
     "name": "샐러디(논현역점)",
     "category": "ETC",
-    "tel": "02-542-7895",
     "coords": { "lat": "37.5109940", "lng": "127.0203982" },
     "address": "06531) 서울시 서초구 신반포로 337 1층 ",
     "naverMapLink": "https://map.naver.com/p/search/37.5109940,127.0203982"
@@ -642,7 +562,6 @@
   {
     "name": "샐러디(신논현역점)",
     "category": "ETC",
-    "tel": "02-595-6738",
     "coords": { "lat": "37.5033211", "lng": "127.0236335" },
     "address": "06611) 서울특별시 서초구 사평대로56길 7 지하1층 B102호(서초동, 서초한일유앤아이주상복합) ",
     "naverMapLink": "https://map.naver.com/p/search/37.5033211,127.0236335"
@@ -650,7 +569,6 @@
   {
     "name": "샐러디(신논현역점)",
     "category": "ETC",
-    "tel": "025956738",
     "coords": { "lat": "37.5031698", "lng": "127.0234988" },
     "address": "06611) 서울특별시 서초구 사평대로56길 7 지하1층",
     "naverMapLink": "https://map.naver.com/p/search/37.5031698,127.0234988"
@@ -658,7 +576,6 @@
   {
     "name": "서울왕돈까스(논현동지점)",
     "category": "WESTERN",
-    "tel": "02-541-6702",
     "coords": { "lat": "37.5128881", "lng": "127.0347435" },
     "address": "06106) 서울특별시 강남구 언주로125길 5 논현동 ",
     "naverMapLink": "https://map.naver.com/p/entry/place/21434131"
@@ -666,7 +583,6 @@
   {
     "name": "서울집",
     "category": "KOREAN_FOOD",
-    "tel": "02-3482-1224",
     "coords": { "lat": "37.5026545", "lng": "127.0217726" },
     "address": "06609) 서울특별시 서초구 서운로 220 서초동, 대지스포츠플라자 1층 ",
     "naverMapLink": "https://map.naver.com/p/entry/place/1768646220"
@@ -674,7 +590,6 @@
   {
     "name": "세븐일레븐(서초바로세움점)",
     "category": "ETC",
-    "tel": "02-596-0711",
     "coords": { "lat": "37.5019747", "lng": "127.0244474" },
     "address": "137856) 서울특별시 서초구 서초대로77길 55",
     "naverMapLink": "https://map.naver.com/p/search/37.5019747,127.0244474"
@@ -682,7 +597,6 @@
   {
     "name": "소공동뚝배기집(논현YMCA점)",
     "category": "KOREAN_FOOD",
-    "tel": "02-547-1961",
     "coords": { "lat": "37.5100169", "lng": "127.0359295" },
     "address": "135830) 서울특별시 강남구 봉은사로37길 28 (논현동) ",
     "naverMapLink": "https://map.naver.com/p/entry/place/1768489250"
@@ -690,7 +604,6 @@
   {
     "name": "소노야(강남역점)",
     "category": "CAFE",
-    "tel": "02-568-0014",
     "coords": { "lat": "37.4981284", "lng": "127.0283030" },
     "address": "06232) 서울특별시 강남구 강남대로 396, 강남역 지하1층28호(역삼동)",
     "naverMapLink": "https://map.naver.com/p/search/37.4981284,127.0283030"
@@ -698,7 +611,6 @@
   {
     "name": "순남시래기(강남역점)",
     "category": "KOREAN_FOOD",
-    "tel": "02-525-1544",
     "coords": { "lat": "37.4956277", "lng": "127.0269945" },
     "address": "06621) 서울특별시 서초구 서초대로74길 23 서초동, 서초타운트라팰리스, 지하1층 B104호 ",
     "naverMapLink": "https://map.naver.com/p/search/37.4956277,127.0269945"
@@ -706,7 +618,6 @@
   {
     "name": "순남시래기(신논현역점)",
     "category": "KOREAN_FOOD",
-    "tel": "025335690",
     "coords": { "lat": "37.5023197", "lng": "127.0248670" },
     "address": "06611) 서울특별시 서초구 강남대로 449-3 지하1층",
     "naverMapLink": "https://map.naver.com/p/search/37.5023197,127.0248670"
@@ -714,7 +625,6 @@
   {
     "name": "순남시래기(신논현점)",
     "category": "KOREAN_FOOD",
-    "tel": "02-533-5690",
     "coords": { "lat": "37.5023197", "lng": "127.0248670" },
     "address": "06611) 서울특별시 서초구 강남대로 449-3 서초동, 보보빌딩 지하1층 ",
     "naverMapLink": "https://map.naver.com/p/search/37.5023197,127.0248670"
@@ -722,7 +632,6 @@
   {
     "name": "숯부래(강남점)",
     "category": "KOREAN_FOOD",
-    "tel": "02-583-3365",
     "coords": { "lat": "37.4949034", "lng": "127.0274129" },
     "address": "06621) 서울특별시 서초구 서초동 1327-29 ,B02호 ",
     "naverMapLink": "https://map.naver.com/p/entry/place/1462581328"
@@ -730,7 +639,6 @@
   {
     "name": "신의주찹쌀순대(신논현점)",
     "category": "ETC",
-    "tel": "025448211",
     "coords": { "lat": "37.5081510", "lng": "127.0241631" },
     "address": "06114) 서울특별시 강남구 강남대로122길 15 (논현동) 지상1층 102호 ",
     "naverMapLink": "https://map.naver.com/p/search/37.5081510,127.0241631"
@@ -738,7 +646,6 @@
   {
     "name": "싸다김밥(강남역점)",
     "category": "FAST_FOOD",
-    "tel": "02-553-1503",
     "coords": { "lat": "37.4977256", "lng": "127.0292972" },
     "address": "06232) 서울 강남구 테헤란로4길 6 역삼동, 강남역 센트럴 푸르지오 시티 120호 ",
     "naverMapLink": "https://map.naver.com/p/entry/place/1449167295"
@@ -746,7 +653,6 @@
   {
     "name": "써브웨이(강남역점)",
     "category": "FAST_FOOD",
-    "tel": "02-557-4727",
     "coords": { "lat": "37.4997005", "lng": "127.0280598" },
     "address": "06129) 서울특별시 강남구 강남대로96길 12",
     "naverMapLink": "https://map.naver.com/p/search/37.4997005,127.0280598"
@@ -754,7 +660,6 @@
   {
     "name": "써브웨이(신논현점)",
     "category": "FAST_FOOD",
-    "tel": "02-544-1014",
     "coords": { "lat": "37.5064791", "lng": "127.0230315" },
     "address": "06541) 서울특별시 서초구 강남대로 499",
     "naverMapLink": "https://map.naver.com/p/search/37.5064791,127.0230315"
@@ -762,7 +667,6 @@
   {
     "name": "아빠곰 수제돈까스",
     "category": "WESTERN",
-    "tel": "02-595-1800",
     "coords": { "lat": "37.5031698", "lng": "127.0234988" },
     "address": "06611) 서울특별시 서초구 사평대로56길 7  1층 112호 (서초동, 서초한일유앤아이주상복합) ",
     "naverMapLink": "https://map.naver.com/p/entry/place/1370689238"
@@ -770,7 +674,6 @@
   {
     "name": "아소산겐안",
     "category": "JAPANESE",
-    "tel": "02-566-6659",
     "coords": { "lat": "37.5031807", "lng": "127.0234726" },
     "address": "06611) 서울 서초구 사평대로56길 7 서초동, 서초한일유앤아이주상복합 204호,205호,206호 ",
     "naverMapLink": "https://map.naver.com/p/entry/place/1393074049"
@@ -778,7 +681,6 @@
   {
     "name": "아오리라멘(강남점)",
     "category": "JAPANESE",
-    "tel": "02-557-7272",
     "coords": { "lat": "37.4909792", "lng": "127.0324446" },
     "address": "06253) 서울특별시 강남구 도곡로1길 14  1층 105호(역삼동,삼일프라자오피스텔) ",
     "naverMapLink": "https://map.naver.com/p/search/37.4909792,127.0324446"
@@ -786,7 +688,6 @@
   {
     "name": "아티제(강남역점)",
     "category": "CAFE",
-    "tel": "025582155",
     "coords": { "lat": "37.4966163", "lng": "127.0286189" },
     "address": "06232) 서울특별시 강남구 강남대로 378 준빌딩 1층 ",
     "naverMapLink": "https://map.naver.com/p/search/37.4966163,127.0286189"
@@ -794,7 +695,6 @@
   {
     "name": "아티제(강남점)",
     "category": "CAFE",
-    "tel": "02-536-0002",
     "coords": { "lat": "37.5027807", "lng": "127.0238598" },
     "address": "06611) 서울특별시 서초구 서초동 1303-16  강남역 IPARK",
     "naverMapLink": "https://map.naver.com/p/search/37.5027807,127.0238598"
@@ -802,7 +702,6 @@
   {
     "name": "알라보(강남점)",
     "category": "FAST_FOOD",
-    "tel": "010-3942-0939",
     "coords": { "lat": "37.4997777", "lng": "127.0324107" },
     "address": "06133) 서울 강남구 테헤란로 129 역삼동 지상1층 4호 ",
     "naverMapLink": "https://map.naver.com/p/entry/place/1197358723"
@@ -810,7 +709,6 @@
   {
     "name": "알로하포케(신논현점)",
     "category": "ETC",
-    "tel": "02-540-4864",
     "coords": { "lat": "37.5048977", "lng": "127.0228157" },
     "address": "06541) 서울 서초구 강남대로79길 22 반포동 ",
     "naverMapLink": "https://map.naver.com/p/entry/place/90462643"
@@ -818,7 +716,6 @@
   {
     "name": "어랑 생선밥상",
     "category": "KOREAN_FOOD",
-    "tel": "02-513-3690",
     "coords": { "lat": "37.5050169", "lng": "127.0222973" },
     "address": "06536) 서울특별시 서초구 사평대로55길 21-2 1층(반포동) ",
     "naverMapLink": "https://map.naver.com/p/entry/place/38510115"
@@ -826,7 +723,6 @@
   {
     "name": "어메이징타이",
     "category": "ETC",
-    "tel": "02-594-7377",
     "coords": { "lat": "37.5019696", "lng": "127.0240448" },
     "address": "06612) 서울특별시 서초구 강남대로65길 12 #서초동, 한서그린빌리지# 207",
     "naverMapLink": "https://map.naver.com/p/entry/place/38275897"
@@ -834,7 +730,6 @@
   {
     "name": "에그드랍(강남본점)",
     "category": "FAST_FOOD",
-    "tel": "1670-4809",
     "coords": { "lat": "37.4956799", "lng": "127.0255713" },
     "address": "06619) 서울특별시 서초구 강남대로55길 24 풍림아이원매직",
     "naverMapLink": "https://map.naver.com/p/search/37.4956799,127.0255713"
@@ -842,7 +737,6 @@
   {
     "name": "에그드랍(강남역점)",
     "category": "FAST_FOOD",
-    "tel": "1670-4809",
     "coords": { "lat": "37.4951640", "lng": "127.0311790" },
     "address": "06243) 서울특별시 강남구 강남대로78길 22",
     "naverMapLink": "https://map.naver.com/p/search/37.4951640,127.0311790"
@@ -850,7 +744,6 @@
   {
     "name": "에그드랍(신논현역점)",
     "category": "FAST_FOOD",
-    "tel": "1670-4809",
     "coords": { "lat": "37.5027557", "lng": "127.0239029" },
     "address": "06611) 서울특별시 서초구 서초대로77길 62 강남역 IPARK",
     "naverMapLink": "https://map.naver.com/p/search/37.5027557,127.0239029"
@@ -858,7 +751,6 @@
   {
     "name": "에스엔컴퍼니 랩(봉게짬뽕)",
     "category": "ETC",
-    "tel": "02-562-1312",
     "coords": { "lat": "37.5031582", "lng": "127.0268953" },
     "address": "06123) 서울특별시 강남구 강남대로106길 17 지하1층 1호 ",
     "naverMapLink": "https://map.naver.com/p/search/37.5031582,127.0268953"
@@ -866,7 +758,6 @@
   {
     "name": "엔제리너스(강남역점)",
     "category": "CAFE",
-    "tel": "02-3478-9091",
     "coords": { "lat": "37.4999487", "lng": "127.0259680" },
     "address": "137855) 서울특별시 서초구 서초대로77길 24 강남 지웰타워2",
     "naverMapLink": "https://map.naver.com/p/search/37.4999487,127.0259680"
@@ -874,7 +765,6 @@
   {
     "name": "연희동칼국수(강남역점)",
     "category": "SNACK",
-    "tel": "02-590-2455",
     "coords": { "lat": "37.4980560", "lng": "127.0258330" },
     "address": "06615) 서울특별시 서초구 서초대로 411 서초동, GT TOWER, B1-3호 ",
     "naverMapLink": "https://map.naver.com/p/search/37.4980560,127.0258330"
@@ -882,7 +772,6 @@
   {
     "name": "오늘통닭(강남역점)",
     "category": "FAST_FOOD",
-    "tel": "02-597-1977",
     "coords": { "lat": "37.4945832", "lng": "127.0275969" },
     "address": "06621) 서울 서초구 서초대로74길 33 서초동, 비트빌 1층 ",
     "naverMapLink": "https://map.naver.com/p/entry/place/1417398034"
@@ -890,7 +779,6 @@
   {
     "name": "오니기리와이규동(강남역점)",
     "category": "JAPANESE",
-    "tel": "02-523-0291",
     "coords": { "lat": "37.4963776", "lng": "127.0278555" },
     "address": "06620) 서울 서초구 강남대로 375 서초동, 서초현대타워아파트 ",
     "naverMapLink": "https://map.naver.com/p/entry/place/20103352"
@@ -898,7 +786,6 @@
   {
     "name": "오므토토마토(강남본점)",
     "category": "SNACK",
-    "tel": "02-3452-8430",
     "coords": { "lat": "37.4965149", "lng": "127.0305337" },
     "address": "06240) 서울특별시 강남구 테헤란로4길 29 오므토토마토(강남본점)",
     "naverMapLink": "https://map.naver.com/p/search/37.4965149,127.0305337"
@@ -906,7 +793,6 @@
   {
     "name": "오샐러드(강남점)",
     "category": "ETC",
-    "tel": "0220395453",
     "coords": { "lat": "37.4968527", "lng": "127.0298410" },
     "address": "06232) 서울특별시 강남구 강남대로84길 15 (역삼동) 1층 108호 ",
     "naverMapLink": "https://map.naver.com/p/search/37.4968527,127.0298410"
@@ -914,7 +800,6 @@
   {
     "name": "옹헤야불백(강남역1번출구점)",
     "category": "KOREAN_FOOD",
-    "tel": "02-558-3007",
     "coords": { "lat": "37.4968317", "lng": "127.0298284" },
     "address": "06232) 서울특별시 강남구 강남대로84길 15, 제1층 제105호(역삼동, 효성해링턴타워더퍼스트)",
     "naverMapLink": "https://map.naver.com/p/search/37.4968317,127.0298284"
@@ -922,7 +807,6 @@
   {
     "name": "와촌",
     "category": "KOREAN_FOOD",
-    "tel": "02-594-1559",
     "coords": { "lat": "37.5028098", "lng": "127.0245281" },
     "address": "06611) 서울 서초구 강남대로 455 서초동, 강남태영데시앙루브,1층 105호 ",
     "naverMapLink": "https://map.naver.com/p/entry/place/1359790946"
@@ -930,7 +814,6 @@
   {
     "name": "완백부대찌개(강남 더인피닛스퀘어점)",
     "category": "KOREAN_FOOD",
-    "tel": "010-2781-9818",
     "coords": { "lat": "37.5035345", "lng": "127.0234736" },
     "address": "06611) 서울 서초구 사평대로58길 6 서초동, 현대썬앤빌 강남 더 인피닛 ",
     "naverMapLink": "https://map.naver.com/p/entry/place/1993621316"
@@ -938,7 +821,6 @@
   {
     "name": "우렁식탁",
     "category": "KOREAN_FOOD",
-    "tel": "02-535-6090",
     "coords": { "lat": "37.5027464", "lng": "127.0225373" },
     "address": "06609) 서울특별시 서초구 사평대로52길 9-2 #서초동# 1층 ",
     "naverMapLink": "https://map.naver.com/p/search/37.5027464,127.0225373"
@@ -946,7 +828,6 @@
   {
     "name": "원주추어탕",
     "category": "KOREAN_FOOD",
-    "tel": "02-557-8647",
     "coords": { "lat": "37.5040021", "lng": "127.0254378" },
     "address": "06123) 서울특별시 강남구 강남대로110길 6 1층(역삼동) ",
     "naverMapLink": "https://map.naver.com/p/entry/place/11861330"
@@ -954,7 +835,6 @@
   {
     "name": "은행골(강남역점)",
     "category": "JAPANESE",
-    "tel": "02-592-4988",
     "coords": { "lat": "37.5005426", "lng": "127.0251706" },
     "address": "06612) 서울 서초구 서초대로75길 34 3층(서초동) ",
     "naverMapLink": "https://map.naver.com/p/entry/place/1880609487"
@@ -962,7 +842,6 @@
   {
     "name": "이가해장국",
     "category": "KOREAN_FOOD",
-    "tel": "02-515-1199",
     "coords": { "lat": "37.5045659", "lng": "127.0232182" },
     "address": "06541) 서울특별시 서초구 사평대로57길 7 반포동 1층 ",
     "naverMapLink": "https://map.naver.com/p/entry/place/1424852905"
@@ -970,7 +849,6 @@
   {
     "name": "이가해장국_KIOSK",
     "category": "ETC",
-    "tel": "01045452945",
     "coords": { "lat": "37.5045659", "lng": "127.0232182" },
     "address": "06541) 서울특별시 서초구 사평대로57길 7 , 1층(반포동) ",
     "naverMapLink": "https://map.naver.com/p/search/37.5045659,127.0232182"
@@ -978,7 +856,6 @@
   {
     "name": "이디야(잠원논현점)",
     "category": "CAFE",
-    "tel": "023334444",
     "coords": { "lat": "37.5109335", "lng": "127.0201789" },
     "address": "06531) 서울특별시 서초구 신반포로 333",
     "naverMapLink": "https://map.naver.com/p/search/37.5109335,127.0201789"
@@ -986,7 +863,6 @@
   {
     "name": "이마트24(강남더인피닛점)",
     "category": "ETC",
-    "tel": "02-6916-1500",
     "coords": { "lat": "37.5034052", "lng": "127.0235285" },
     "address": "06611) 서울특별시 서초구 사평대로 58길 6 1층 ",
     "naverMapLink": "https://map.naver.com/p/search/37.5034052,127.0235285"
@@ -994,7 +870,6 @@
   {
     "name": "이마트24(반포가온점)",
     "category": "ETC",
-    "tel": "02-6916-1500",
     "coords": { "lat": "37.5065440", "lng": "127.0210751" },
     "address": "06540) 서울특별시 서초구 사평대로 55길 65-11 1층 ",
     "naverMapLink": "https://map.naver.com/p/search/37.5065440,127.0210751"
@@ -1002,7 +877,6 @@
   {
     "name": "이태원천상(강남역점)",
     "category": "JAPANESE",
-    "tel": "02-587-2520",
     "coords": { "lat": "37.4956031", "lng": "127.0270234" },
     "address": "06621) 서울 서초구 서초대로74길 23, 지하1층 서초동, 서초타운트라팰리스 ",
     "naverMapLink": "https://map.naver.com/p/entry/place/31368169"
@@ -1010,7 +884,6 @@
   {
     "name": "인더비엣(신논현역점)",
     "category": "FAST_FOOD",
-    "tel": "02-595-3842",
     "coords": { "lat": "37.5025202", "lng": "127.0226364" },
     "address": "06609) 서울 서초구 사평대로52길 13 1층(서초동) ",
     "naverMapLink": "https://map.naver.com/p/entry/place/1516567349"
@@ -1018,7 +891,6 @@
   {
     "name": "자연임실치즈피자(논현점)",
     "category": "FAST_FOOD",
-    "tel": "02-544-6228",
     "coords": { "lat": "37.5104700", "lng": "127.0357802" },
     "address": "06107) 서울특별시 강남구 언주로 615 논현동, 논현 아이파크 제103동 제지1층 제비113호 ",
     "naverMapLink": "https://map.naver.com/p/entry/place/1172307701"
@@ -1026,7 +898,6 @@
   {
     "name": "작은마을",
     "category": "KOREAN_FOOD",
-    "tel": "02-594-8422",
     "coords": { "lat": "37.5028212", "lng": "127.0245779" },
     "address": "06611) 서울 서초구 강남대로 455 서초동, 강남태영데시앙루브 지하1층 B113호 ",
     "naverMapLink": "https://map.naver.com/p/search/37.5028212,127.0245779"
@@ -1034,7 +905,6 @@
   {
     "name": "장작구이쌈밥(반포본점) ",
     "category": "KOREAN_FOOD",
-    "tel": "02-543-1845",
     "coords": { "lat": "37.5067106", "lng": "127.0225851" },
     "address": "137040) 서울특별시 서초구 반포동 736-14",
     "naverMapLink": "https://map.naver.com/p/entry/place/38522133"
@@ -1042,7 +912,6 @@
   {
     "name": "제이원플러스",
     "category": "ETC",
-    "tel": "07086912455",
     "coords": { "lat": "37.5060386", "lng": "127.0232261" },
     "address": "06541) 서울특별시 서초구 강남대로 491 (반포동) 1층 ",
     "naverMapLink": "https://map.naver.com/p/search/37.5060386,127.0232261"
@@ -1050,7 +919,6 @@
   {
     "name": "중경마라탕(강남역점)",
     "category": "CHINESE",
-    "tel": "02-558-5988",
     "coords": { "lat": "37.5012214", "lng": "127.0270697" },
     "address": "06129) 서울특별시 강남구 테헤란로1길 44 , 2층(역삼동) ",
     "naverMapLink": "https://map.naver.com/p/search/37.5012214,127.0270697"
@@ -1058,7 +926,6 @@
   {
     "name": "진대감(교보타워점)",
     "category": "KOREAN_FOOD",
-    "tel": "02-596-0715",
     "coords": { "lat": "37.5019696", "lng": "127.0240448" },
     "address": "06611) 서울특별시 서초구 서초대로73길 54 1층 ",
     "naverMapLink": "https://map.naver.com/p/search/37.5019696,127.0240448"
@@ -1066,7 +933,6 @@
   {
     "name": "진대감(논현본점)",
     "category": "KOREAN_FOOD",
-    "tel": "02-512-0365",
     "coords": { "lat": "37.5124089", "lng": "127.0344330" },
     "address": "06106) 서울특별시 강남구 학동로 38길 38 1층 ",
     "naverMapLink": "https://map.naver.com/p/search/37.5124089,127.0344330"
@@ -1074,7 +940,6 @@
   {
     "name": "진미식당",
     "category": "KOREAN_FOOD",
-    "tel": "02-548-5870",
     "coords": { "lat": "37.5063285", "lng": "127.0223695" },
     "address": "06536) 서울특별시 서초구 강남대로83길 18 반포동 1층 ",
     "naverMapLink": "https://map.naver.com/p/entry/place/18295037"
@@ -1082,7 +947,6 @@
   {
     "name": "참맛집",
     "category": "KOREAN_FOOD",
-    "tel": "02-536-5169",
     "coords": { "lat": "37.5030711", "lng": "127.0218559" },
     "address": "06609) 서울 서초구 서초동 1302-1 서초오피스텔 지하1층 12 ",
     "naverMapLink": "https://map.naver.com/p/search/37.5030711,127.0218559"
@@ -1090,7 +954,6 @@
   {
     "name": "참이맛감자탕(강남점)",
     "category": "KOREAN_FOOD",
-    "tel": "02-3481-3399",
     "coords": { "lat": "37.5030187", "lng": "127.0229952" },
     "address": "06609) 서울특별시 서초구 사평대로56길 10 서초동 1층 ",
     "naverMapLink": "https://map.naver.com/p/entry/place/36667259"
@@ -1098,7 +961,6 @@
   {
     "name": "천안문",
     "category": "CHINESE",
-    "tel": "02-518-0231",
     "coords": { "lat": "37.5058693", "lng": "127.0221866" },
     "address": "137040) 서울특별시 서초구 반포동 738 (2층) ",
     "naverMapLink": "https://map.naver.com/p/entry/place/18293357"
@@ -1106,7 +968,6 @@
   {
     "name": "카페마마스(강남역점)",
     "category": "WESTERN",
-    "tel": "02-584-1260",
     "coords": { "lat": "37.4960419", "lng": "127.0254156" },
     "address": "06619) 서울 서초구 서운로 138, 1층 서초동, 서초동아타워 ",
     "naverMapLink": "https://map.naver.com/p/entry/place/21339789"
@@ -1114,7 +975,6 @@
   {
     "name": "커피니(논현그린타워점)",
     "category": "CAFE",
-    "tel": "02-515-1325",
     "coords": { "lat": "37.5114910", "lng": "127.0355635" },
     "address": "06107) 서울특별시 강남구 언주로 619 논현동, 대현그린타워 ",
     "naverMapLink": "https://map.naver.com/p/entry/place/1874242715"
@@ -1122,7 +982,6 @@
   {
     "name": "컴포즈커피(강남교보타워점)",
     "category": "CAFE",
-    "tel": "1899-5685",
     "coords": { "lat": "37.5032375", "lng": "127.0236995" },
     "address": "06611) 서울특별시 서초구 사평대로56길 7 컴포즈커피(강남교보타워점) ",
     "naverMapLink": "https://map.naver.com/p/search/37.5032375,127.0236995"
@@ -1130,7 +989,6 @@
   {
     "name": "쿄 베이커리X 카페 더 인피닛",
     "category": "CAFE",
-    "tel": "02-536-2838",
     "coords": { "lat": "37.5034052", "lng": "127.0235285" },
     "address": "06611) 서울 서초구 사평대로58길 6 1층 102,103호(서초동, 현대썬앤빌 강남 더 인피닛) ",
     "naverMapLink": "https://map.naver.com/p/entry/place/1248434851"
@@ -1138,7 +996,6 @@
   {
     "name": "크리스피크림도넛(강남역점)",
     "category": "CAFE",
-    "tel": "02-567-1937",
     "coords": { "lat": "37.4965595", "lng": "127.0287729" },
     "address": "135080) 서울특별시 강남구 강남대로 376",
     "naverMapLink": "https://map.naver.com/p/search/37.4965595,127.0287729"
@@ -1146,7 +1003,6 @@
   {
     "name": "타미하우스(신논현점)",
     "category": "CAFE",
-    "tel": "02-599-0320",
     "coords": { "lat": "37.5030711", "lng": "127.0218559" },
     "address": "06609) 서울특별시 서초구 서운로 226 서초동, 서초오피스텔 1층 109호",
     "naverMapLink": "https://map.naver.com/p/entry/place/1906105674"
@@ -1154,7 +1010,6 @@
   {
     "name": "탄탄면공방(강남점)",
     "category": "CHINESE",
-    "tel": "02-563-2229",
     "coords": { "lat": "37.4957727", "lng": "127.0304958" },
     "address": "06241) 서울특별시 강남구 테헤란로4길 40 역삼동, 신소애빌딩 ",
     "naverMapLink": "https://map.naver.com/p/entry/place/1951217777"
@@ -1162,7 +1017,6 @@
   {
     "name": "티테라스",
     "category": "CAFE",
-    "tel": "025951233",
     "coords": { "lat": "37.5011628", "lng": "127.0244129" },
     "address": "06612) 서울 서초구 서초대로73길 42, 강남역리가스퀘어 1층 108-1호",
     "naverMapLink": "https://map.naver.com/p/search/37.5011628,127.0244129"
@@ -1170,7 +1024,6 @@
   {
     "name": "파리바게뜨(강남역)",
     "category": "CAFE",
-    "tel": "02-558-1979",
     "coords": { "lat": "37.5007937", "lng": "127.0268277" },
     "address": "135080) 서울시 강남구 역삼동 815-4 만이빌딩 지상3층 2-303호 ",
     "naverMapLink": "https://map.naver.com/p/search/37.5007937,127.0268277"
@@ -1178,7 +1031,6 @@
   {
     "name": "파리바게뜨(신논현교보타워)",
     "category": "CAFE",
-    "tel": "02-544-8203",
     "coords": { "lat": "37.5063152", "lng": "127.0247117" },
     "address": "135827) 서울시 강남구 논현1동 183번지 파리바게뜨(신논현교보타워) ",
     "naverMapLink": "https://map.naver.com/p/search/37.5063152,127.0247117"
@@ -1186,7 +1038,6 @@
   {
     "name": "평안도찹쌀순대(강남직영점)",
     "category": "ETC",
-    "tel": "025082357",
     "coords": { "lat": "37.5037426", "lng": "127.0258894" },
     "address": "06123) 서울특별시 강남구 봉은사로2길 13 (역삼동) 1층",
     "naverMapLink": "https://map.naver.com/p/search/37.5037426,127.0258894"
@@ -1194,7 +1045,6 @@
   {
     "name": "폴바셋(교보문고강남점)",
     "category": "CAFE",
-    "tel": "025336356",
     "coords": { "lat": "37.5037617", "lng": "127.0241388" },
     "address": "06611) 서울특별시 서초구 강남대로  465 교보타워",
     "naverMapLink": "https://map.naver.com/p/search/37.5037617,127.0241388"
@@ -1202,7 +1052,6 @@
   {
     "name": "하루스시",
     "category": "FAST_FOOD",
-    "tel": "02-532-9091",
     "coords": { "lat": "37.5028098", "lng": "127.0245281" },
     "address": "06611) 서울 서초구 강남대로 455 지하1층(서초동, 강남태영데시앙루브) ",
     "naverMapLink": "https://map.naver.com/p/entry/place/18324366"
@@ -1210,7 +1059,6 @@
   {
     "name": "한식밥상(강남점)",
     "category": "FAST_FOOD",
-    "tel": "02-544-4765",
     "coords": { "lat": "37.5106595", "lng": "127.0352589" },
     "address": "06107) 서울 강남구 봉은사로37길 41 논현동 지하1층 2호 ",
     "naverMapLink": "https://map.naver.com/p/entry/place/1252172868"
@@ -1218,7 +1066,6 @@
   {
     "name": "할랄가이즈 (강남점)",
     "category": "ETC",
-    "tel": "02-595-1801",
     "coords": { "lat": "37.5018121", "lng": "127.0246101" },
     "address": "06611) 서울 서초구 강남대로69길 8 서초동, 케이아이타워(K I타워) ",
     "naverMapLink": "https://map.naver.com/p/entry/place/1637458598"
@@ -1226,7 +1073,6 @@
   {
     "name": "헤비스테이크(강남점)",
     "category": "FAST_FOOD",
-    "tel": "02-557-3309",
     "coords": { "lat": "37.4962612", "lng": "127.0301445" },
     "address": "06241) 서울 강남구 테헤란로4길 32 역삼동, 역삼동우정에쉐르1 1층 103호 ",
     "naverMapLink": "https://map.naver.com/p/entry/place/1850791145"
@@ -1234,7 +1080,6 @@
   {
     "name": "현대옥(강남교보점)",
     "category": "KOREAN_FOOD",
-    "tel": "02-537-8111",
     "coords": { "lat": "37.5033766", "lng": "127.0220226" },
     "address": "06609) 서울 서초구 사평대로 354 서초동, 호진빌딩 1층 ",
     "naverMapLink": "https://map.naver.com/p/search/37.5033766,127.0220226"
@@ -1242,7 +1087,6 @@
   {
     "name": "호돌이떡볶이(강남)",
     "category": "FAST_FOOD",
-    "tel": "0507-1396-0423",
     "coords": { "lat": "37.4924086", "lng": "127.0320238" },
     "address": "06252) 서울 강남구 역삼로4길 16 지하1층 비08호(역삼동, 성우스타우스오피스텔) ",
     "naverMapLink": "https://map.naver.com/p/entry/place/1522789745"
@@ -1250,7 +1094,6 @@
   {
     "name": "홍수계찜닭(강남더인피닛스퀘어점)",
     "category": "KOREAN_FOOD",
-    "tel": "02-536-1838",
     "coords": { "lat": "37.5035623", "lng": "127.0237270" },
     "address": "06611) 서울 서초구 사평대로58길 6 서초동, 현대썬앤빌 강남 더 인피닛 1층 101호 ",
     "naverMapLink": "https://map.naver.com/p/entry/place/1116803822"
@@ -1258,7 +1101,6 @@
   {
     "name": "홍콩가",
     "category": "CHINESE",
-    "tel": "02-517-8284",
     "coords": { "lat": "37.5049643", "lng": "127.0226950" },
     "address": "06541) 서울 서초구 반포동 738-41 1층 ",
     "naverMapLink": "https://map.naver.com/p/entry/place/19582205"
@@ -1266,7 +1108,6 @@
   {
     "name": "힘난다버거(강남역점)",
     "category": "ETC",
-    "tel": "02-567-6768",
     "coords": { "lat": "37.4969920", "lng": "127.0298616" },
     "address": "06232) 서울특별시 강남구 강남대로84길 15, 지상1층 102-1호",
     "naverMapLink": "https://map.naver.com/p/search/37.4969920,127.0298616"
@@ -1274,7 +1115,6 @@
   {
     "name": "힘난다버거(신논현역점)",
     "category": "ETC",
-    "tel": "02-595-6768",
     "coords": { "lat": "37.5032066", "lng": "127.0235490" },
     "address": "06611) 서울특별시 서초구 사평대로58길 7 지하1층 116호(서초동, 서초한일유앤아이주상복합)",
     "naverMapLink": "https://map.naver.com/p/entry/place/1470422298"

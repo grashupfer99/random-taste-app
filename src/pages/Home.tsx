@@ -72,13 +72,6 @@ export default function Home() {
                       >
                         {CATEGORIES[place?.category as CategoryTypes].label}
                       </div>
-
-                      <a
-                        href={`tel:${place?.tel}`}
-                        className="badge badge-lg badge-neutral badge-lg ml-2"
-                      >
-                        {place?.tel}
-                      </a>
                     </div>
                     <div className="stat-title">
                       Distance: {place?.distance.toFixed(0)}m
