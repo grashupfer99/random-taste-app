@@ -10,25 +10,28 @@ import ErrorComponent from "components/ErrorComponent";
 
 // ----------------------------------------------------------------------
 
-const router = createBrowserRouter([
-  {
-    path: import.meta.env.PROD ? "/random-taste-app" : "/",
-    errorElement: <ErrorComponent />,
-    element: <Home />,
-  },
-  {
-    path: "/places",
-    errorElement: <ErrorComponent />,
-    element: <Places />,
-  },
-  {
-    path: "/about",
-    errorElement: <ErrorComponent />,
-    element: <About />,
-  },
-  { path: "404", element: <NotFound /> },
-  { path: "*", element: <NotFound /> },
-]);
+const router = createBrowserRouter(
+  [
+    {
+      path: "/",
+      errorElement: <ErrorComponent />,
+      element: <Home />,
+    },
+    {
+      path: "/places",
+      errorElement: <ErrorComponent />,
+      element: <Places />,
+    },
+    {
+      path: "/about",
+      errorElement: <ErrorComponent />,
+      element: <About />,
+    },
+    { path: "404", element: <NotFound /> },
+    { path: "*", element: <NotFound /> },
+  ],
+  { basename: import.meta.env.BASE_URL }
+);
 
 export default function Router() {
   return <RouterProvider router={router} />;
